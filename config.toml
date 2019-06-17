@@ -3,7 +3,7 @@
 # And see https://gohugo.io/getting-started/configuration/ .
 
 baseURL = "http://joshsullivan.io/"
-title = "Josh's Hugo Blog"
+title = "Josh Sullivan"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
@@ -26,7 +26,7 @@ post = "/:year/:month/:slug/"
 micro = "/micro/:year/:month/:day/:slug"
 
 [author]                  # essential                   
-  name = "Josh"
+  name = "Josh Sullivan"
 
 [sitemap]                 # essential                     
   changefreq = "weekly"
