@@ -12,9 +12,9 @@ newContentEditor = "BBEdit"
 hasCJKLanguage = false     # has chinese/japanese/korean
 paginate = 10             # Number of articles displayed on the homepage 
 rssLimit = 20             # Limit Entry Count to Rss file #  Rss 
-disqusShortname = ""      # disqus_shortname
-googleAnalytics = ""      # UA-XXXXXXXX-X
-copyright = ""            # default: author.name         # author.name
+# disqusShortname = ""      # disqus_shortname
+# googleAnalytics = ""      # UA-XXXXXXXX-X
+# copyright = ""            # default: author.name         # author.name
 
 # language support # en / zh-cn / other... translations present in i18n/
 defaultContentLanguage = "en"           # Default language to use
@@ -23,7 +23,7 @@ defaultContentLanguage = "en"           # Default language to use
 
 [permalinks]
 post = "/:year/:month/:slug/"
-micro = "/micro/:year/:month/:day/:slug"
+micro = "/micro/:year/:month/:day/:slug/"
 
 [author]                  # essential                   
   name = "Josh Sullivan"
@@ -39,23 +39,27 @@ micro = "/micro/:year/:month/:day/:slug"
   identifier = "home"
   url = "/"
 [[menu.main]]
-  name = "Archives"
+  name = "About"
   weight = 20
+  url = "https://blog.joshsullivan.io/about"
+[[menu.main]]
+  name = "Archives"
+  weight = 30
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
   name = "Tags"
-  weight = 30
+  weight = 40
   identifier = "tags"
   url = "/tags/"
 [[menu.main]]
   name = "Categories"
-  weight = 40
+  weight = 50
   identifier = "categories"
   url = "/categories/"
 [[menu.main]]
   name = "My Wiki"
-  weight = 50
+  weight = 60
   url = "https://joshisms.io"
 
 
