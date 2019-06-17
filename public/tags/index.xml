@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My Hugo Blog</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on My Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jun 2019 11:01:37 -0400</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/tags/test/</link>
+      <pubDate>Mon, 17 Jun 2019 11:01:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test1</title>
+      <link>http://localhost:1313/tags/test1/</link>
+      <pubDate>Mon, 17 Jun 2019 11:01:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/tags/test1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>http://localhost:1313/tags/test2/</link>
+      <pubDate>Mon, 17 Jun 2019 11:01:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/tags/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>micro</title>
+      <link>http://localhost:1313/tags/micro/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/micro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>synology</title>
+      <link>http://localhost:1313/tags/synology/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/tags/synology/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

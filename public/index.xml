@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Hugo Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on My Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 17 Jun 2019 11:01:37 -0400</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Mon, 17 Jun 2019 11:01:37 -0400</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;test-post&#34;&gt;Test Post&lt;/h1&gt;
+
+&lt;p&gt;This is my first post.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Here is item one&lt;/li&gt;
+&lt;li&gt;Here is item two&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Inline &lt;code&gt;code&lt;/code&gt; works well.&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;As do code blocks
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;&lt;em&gt;Super&lt;/em&gt; fun &lt;em&gt;times&lt;/em&gt;&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>Micro Post for Synology</title>
+      <link>http://localhost:1313/posts/20190617-115210/</link>
+      <pubDate>Mon, 17 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/20190617-115210/</guid>
+      
+        <description>
+
+&lt;h1 id=&#34;micro-post-for-synology&#34;&gt;Micro Post for Synology&lt;/h1&gt;
+
+&lt;p&gt;This is my micro post for synology&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
