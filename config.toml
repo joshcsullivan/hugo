@@ -61,7 +61,7 @@ micro = "/micro/:year/:month/:day/:slug"
 
 [params]
   since = "2019"            # Site creation time          
-  homeFullContent = true   # if false, show post summaries on home page. Othewise show full content.
+  homeFullContent = false   # if false, show post summaries on home page. Othewise show full content.
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 
