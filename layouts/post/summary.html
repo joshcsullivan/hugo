@@ -49,19 +49,21 @@
     <div class="post-summary">
       {{ .Summary }}
     </div>
-    {{ with .Params.tags -}}
-        <div class="post-tags">
-          {{ range . }}
-          {{- $name := . -}}
-          {{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
-          <a href="{{ .Permalink }}">{{ $name }}</a>
-          {{ end -}}
-          {{ end }}
-        </div>
-      {{- end }}
-    <div class="read-more">
-      <a href="{{ .RelPermalink }}" class="read-more-link">{{ i18n "readmore" }}</a>
-    </div>
+    <footer class="post-footer">
+    	{{ with .Params.tags -}}
+       	 <div class="post-tags">
+          	{{ range . }}
+          	{{- $name := . -}}
+          	{{- with $.Site.GetPage "taxonomy" (printf "tags/%s" $name) | default ($.Site.GetPage "taxonomy" (printf "tags/%s" ($name | urlize))) -}}
+          	<a href="{{ .Permalink }}">{{ $name }}</a>
+          	{{ end -}}
+          	{{ end }}
+        	</div>
+      	{{- end }}
+    	<div class="read-more">
+      	<a href="{{ .RelPermalink }}" class="read-more-link">{{ i18n "readmore" }}</a>
+    	</div>
+    </footer>
     {{ end }}
   </div>
 </article>
