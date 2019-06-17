@@ -65,7 +65,7 @@ micro = "/micro/:year/:month/:day/:slug"
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 
-  logoTitle = "Josh's Hugo Blog"        # default: the title value    # title
+  logoTitle = "Josh Sullivan"        # default: the title value    # title
   keywords = ["Technology"]
   description = "A blog by Josh Sullivan"
 
