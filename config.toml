@@ -90,3 +90,4 @@ micro = "/micro/:year/:month/:day/:slug/"
   
 [params.social]                                         
  g-github = "https://github.com/joshcsullivan"
+ m-microblog = "https://micro.blog/joshsullivan"
