@@ -1,0 +1,3 @@
+.post .post-header .post-meta .post-category a::before {
+    content: ' · '
+}
