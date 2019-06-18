@@ -87,6 +87,9 @@ post = "/:year/:month/:slug/"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "02 January 2006"
+  
+  # show word count and read time ?                       # 是否显示字数统计与阅读时间
+  moreMeta = false
 
   #  front matter archetypes/default.md
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
