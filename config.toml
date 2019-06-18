@@ -7,7 +7,7 @@ title = "Josh Sullivan"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
-# newContentEditor = "BBEdit"
+newContentEditor = "bbedit"
 
 hasCJKLanguage = false     # has chinese/japanese/korean
 paginate = 10             # Number of articles displayed on the homepage 
