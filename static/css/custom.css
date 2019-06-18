@@ -1,3 +1,15 @@
 .post .post-header .post-meta .post-category a::before {
     content: ' · '
 }
+
+.archive .collection-title .archive-year {
+    font-size: 1.8em;
+}
+
+.archive .archive-post {
+  padding: 2px 0px 0px;
+  border-bottom: none;
+  font-size: 1em;
+  display: table;
+  width: 100%;
+}
