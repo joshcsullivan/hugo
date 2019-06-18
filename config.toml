@@ -2,12 +2,12 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "http://joshsullivan.io"
+baseURL = "https://joshsullivan.io"
 title = "Josh Sullivan"
 enableRobotsTXT = true
 enableEmoji = true
 theme = "jane"
-newContentEditor = "BBEdit"
+# newContentEditor = "BBEdit"
 
 hasCJKLanguage = false     # has chinese/japanese/korean
 paginate = 10             # Number of articles displayed on the homepage 
