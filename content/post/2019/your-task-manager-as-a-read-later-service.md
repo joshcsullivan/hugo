@@ -1,7 +1,7 @@
 ---
 title: "Your Task Manager as a Read Later Service"
 date: 2019-06-02T09:32:00-04:00
-draft: true
+draft: false
 tags: ["reading", "todoist", "omnifocus", "link"]
 categories: []
 ---
