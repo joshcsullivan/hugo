@@ -77,6 +77,13 @@ post = "/:year/:month/:slug/"
   logoTitle = "Josh Sullivan"        # default: the title value    # title
   keywords = ["Technology"]
   description = "A blog by Josh Sullivan"
+  
+  # paginate of archives, tags and categories             # 归档、标签、分类每页显示的文章数目，建议修改为一个较大的值
+  archive-paginate = 3000
+
+  # paginate style, default use numbered pagination links
+  # if true, use original "Previous" and "Next" links.
+  # paginateOriginalStyle = true
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
   dateFormatToUse = "02 January 2006"

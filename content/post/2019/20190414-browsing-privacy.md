@@ -1,0 +1,10 @@
+---
+title: "Browsing Privacy"
+date: 2019-04-14T09:11:22-04:00
+tags: ["privacy"]
+categories: ["Tech"]
+---
+
+I've recently gone all in on privacy related to my browsing habits. I've switched to [Brave](https://brave.com/) for my browser and use [DuckDuckGo](https://duckduckgo.com/) for my search engine with fall back to Wikipedia via [Bangs](https://duckduckgo.com/bang). Brave is a [Chrominium](https://en.wikipedia.org/wiki/Chromium_(web_browser)) based browser and therefore has the entire Chrome extensions library available while also respecting your privacy. It isn’t as resource intensive as Chrome on macOS, but Safari is still far better. Unfortunately, I keep finding more and more sites that have issues on Safari that don’t occur in Brave. Plus Brave allows you to block JavaScript which has been useful in preventing the annoying “You have an Ad Blocker, please whitelist us” popups, if it’s a small site I usually whitelist unless they are obnoxious with their ads/popups, but for sites like NBC Brave JS blocking is excellent. 
+
+My browsing habits don't require the need to hide them from people, I share a lot of my life online between this blog and [my wiki](https://joshisms.io), but that doesn't mean I want to freely market myself to companies that don't need my information. I've found with Brave and DuckDuckGo, sometimes my results aren’t as accurate as they were on Google, but more often than not they return the correct results. In the cases I don’t find what I am expecting a quick visit to Google will get the result, and with [Brave Private Tor Browser](https://brave.com/tor-tabs-beta), Google can't tie my search to my profile. Another great benefit of the Brave browser is its ability to stop all auto-play videos, Safari has this feature, but I found a couple of sites it didn't work on, Brave blocks them no matter what. If you are looking for a browser that respects your privacy, I think Brave is a great solution that is worth at least downloading and trying out.
