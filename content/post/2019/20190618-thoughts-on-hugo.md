@@ -1,6 +1,6 @@
 ---
 title: "Thoughts on Hugo"
-date: 2019-06-18T14:03:44-04:00
+date: 2019-06-18T17:45:44-04:00
 draft: false
 tags: ["blogging", "meta"]
 categories: []
