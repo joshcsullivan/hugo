@@ -74,7 +74,7 @@ micro = "/micro/:year/:month/:day/:slug/"
   description = "A blog by Josh Sullivan"
 
   # The date format to use; for a list of valid formats, see https://gohugo.io/functions/format/
-  dateFormatToUse = "2006-01-02"
+  dateFormatToUse = "2 January 2006"
 
   #  front matter archetypes/default.md
   # Some global options, you can also close or open something in front matter for a single post, see more information from `archetypes/default.md`.
