@@ -34,7 +34,7 @@ post = "/:year/:month/:slug/"
   name = "Josh Sullivan"
 
 [sitemap]                 # essential                     
-  changefreq = "weekly"
+  changefreq = "daily"
   priority = 0.5
   filename = "sitemap.xml"
 
