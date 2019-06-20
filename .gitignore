@@ -2,3 +2,4 @@
 .gitignore
 ./public
 /public
+/themes/jane/exampleSite
