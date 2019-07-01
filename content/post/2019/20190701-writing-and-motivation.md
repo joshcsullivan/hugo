@@ -1,0 +1,16 @@
+---
+title: "Writing and Motivation"
+date: 2019-07-01T09:03:15-04:00
+tags: ["blogging"]
+categories: []
+---
+
+It's easy to get into a writing rut. I've done it many times before where I want to write a blog post, but I can't get the words out due to a lack of motivation. Eventually, whether it's days or weeks, the feeling goes away, and I can write. I hate that about myself, but I also know I can't promise I will get better at keeping the posting motivation.
+
+A few months ago, my grandmother gave me some insight into why it might be happening, and I didn't even realize it until I looked back on previous posts and projects throughout the years. When I was six years old, my father passed away in a car accident on the 22nd of May. I lived with my uncle on my father's side for the next five years, until he passed away suddenly on the 29th of July. Going back through posts, through the beginning of the month, up until the 22nd of the month, I am productive and motivated. Looking back at personal projects, I found I completed about 94% between the 1st and the 20th of the month. I completed a dismal 6% between the 22nd and the 30/31. In perspective, if I finished one project per day, that number should have been 73% for the beginning of the month and 27% for the end of the month.
+
+I like data, and that data suggests I have a motivational issue stemming from losing my two father figures. I don't consider myself depressed, mainly because I was depressed during my early teen years, and I remember the signs of my depression. I know I'm not depressed because take care of myself during that time, and I go out with friends and interact with coworkers like I always do, I don't retract into my office from my SO, and hide from the world. When speaking to my grandmother, who lost her sons, she gets sad around the end of the month, a few people I know who have lost parents/children also said the same thing, it's not a yearly anniversary, but a monthly. I'm not saying that every month these people or myself fall into depression, but you're sad or lack motivation, and you don't know why then you see the date and realize the reason.
+
+For myself, I've gotten better, I take meticulous notes and keep records, so I know those stats above were from February 2010 until June 2019. If I look at February 2018 to June 2019, the first through the 20th, I completed 81% of projects and 19% from the 21st through the 31st. Those are much better statistics, I like those numbers, and every year it seems to get better. As you can probably tell, I like data, and this data helps me justify my behavior for online interaction. Trust me, I would love to be someone who could write a post every day, and I do believe I have the content, not only about technology but about all kinds of different topics, unfortunately, I don't have the motivation still to output a post during the end of the month.
+
+I am getting better, and I think it will be easier to keep the motivation going throughout the month over time. I'm not going to promise it will get better, or that I will post during that time frame, but I know it gets a little easier to keep the motivation every month.
