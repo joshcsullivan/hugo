@@ -101,7 +101,7 @@ post = "/:year/:month/:slug/"
   # Link custom CSS and JS assets
   #   (relative to /static/css and /static/js respectively)
   customCSS = ['custom.css']            # if ['custom.css'], load '/static/css/custom.css' file
-  customJS = []             # if ['custom.js'], load '/static/js/custom.js' file
+  customJS = ['custom.js']             # if ['custom.js'], load '/static/js/custom.js' file
   
 [params.social]                                         
  g-github = "https://github.com/joshcsullivan"
