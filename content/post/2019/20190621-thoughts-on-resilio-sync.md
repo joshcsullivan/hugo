@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on Resilio Sync"
 date: 2019-06-21T12:08:03-04:00
-tags: ["synology", "resilio"]
+tags: ["synology", "resilio sync"]
 categories: []
 ---
 
