@@ -2,7 +2,7 @@
 title: "Finally Understand Resilio Sync"
 date: 2019-07-22T10:07:34-04:00
 tags: ["resilio sync"]
-categories: []
+categories: ["Tech"]
 ---
 
 After stating that [I was moving on](https://joshsullivan.io/2019/06/thoughts-on-resilio-sync/) from Resilio Sync, I finally grasped its usefulness this past weekend. Over the weekend I was looking to move some preference sync files out of iCloud, mainly because I was never supposed to put them there, but I hadn't had an issue yet so I left them there far longer than I should. Nothing happened to them, but I was reading a post on the [MPU Talk Forum](https://talk.macpowerusers.com/t/dropbox-do-you-trust-them-with-your-data/12830/34) and found this paragraph by TJ Luoma:
