@@ -13,10 +13,10 @@ So without further explanation I'm listing out the steps I took to set up the NG
 
 On a DigitalOcean droplet (or any Ubuntu/Linux VPS) already set up with Nginx (if you need instructions for setting up NGinx Firewall access, follow steps 12-14 [here][3]), follow these steps:
 
-#. Get a domain or subdomain for the new site. In this example I used static.domain.com
-#. To restrict its access you can create a new folder in the home directory of your user profile (`mkdir public`), for example mine is `/home/username/public` 
-#.  While SSH'd into the VPS, navigate to `/etc/nginx/sites-available/` then create `static.domain.com` by entering `sudo nano static.domain.com`
-#.  In the File put the following (make sure to change the path in root to your path)
+1. Get a domain or subdomain for the new site. In this example I used static.domain.com
+2. To restrict its access you can create a new folder in the home directory of your user profile (`mkdir public`), for example mine is `/home/username/public` 
+3.  While SSH'd into the VPS, navigate to `/etc/nginx/sites-available/` then create `static.domain.com` by entering `sudo nano static.domain.com`
+4.  In the File put the following (make sure to change the path in root to your path)
 
 ```
 server {
@@ -32,11 +32,11 @@ server {
 - Change the `server_name` field to your domain name
 - **Make sure to change the path in root to your path**
 
-#. Next you need to enable the site via Symbolic link: `sudo ln -s /etc/nginx/sites-available/static.domain.com /etc/nginx/sites-enabled/ - Symbolic links site to enabled`
-#. For an SSL Cert if you have cert bot install you can skip to step 9, otherwise continue to 7
-#. Enter `sudo apt install certbot - Install Certbot`
-#. Enter `sudo apt-get install python-certbot-nginx` - Installs Nginx Certbot
-#. Enter `sudo certbot --nginx` - Create HTTPS cert with Let’s Encrypt
+5. Next you need to enable the site via Symbolic link: `sudo ln -s /etc/nginx/sites-available/static.domain.com /etc/nginx/sites-enabled/ - Symbolic links site to enabled`
+6. For an SSL Cert if you have cert bot install you can skip to step 9, otherwise continue to 5 below.
+7. Enter `sudo apt install certbot - Install Certbot`
+8. Enter `sudo apt-get install python-certbot-nginx` - Installs Nginx Certbot
+9. Enter `sudo certbot --nginx` - Create HTTPS cert with Let’s Encrypt
 	- Select whichever domains you want your cert to cover
 	- Press 2 to redirect HTTP traffic to HTTPS, this is recommended
 	- The conf files for your selected domains will be updated with the cert information automatically
