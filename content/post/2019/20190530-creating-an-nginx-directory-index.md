@@ -33,7 +33,7 @@ server {
 - **Make sure to change the path in root to your path**
 
 5. Next you need to enable the site via Symbolic link: `sudo ln -s /etc/nginx/sites-available/static.domain.com /etc/nginx/sites-enabled/ - Symbolic links site to enabled`
-6. For an SSL Cert if you have cert bot install you can skip to step 9, otherwise continue to 5 below.
+6. For an SSL Cert if you have cert bot install you can skip to step 9, otherwise continue to step 5 below.
 7. Enter `sudo apt install certbot - Install Certbot`
 8. Enter `sudo apt-get install python-certbot-nginx` - Installs Nginx Certbot
 9. Enter `sudo certbot --nginx` - Create HTTPS cert with Let’s Encrypt
